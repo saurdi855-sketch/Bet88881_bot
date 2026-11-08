@@ -1,0 +1,2 @@
+python-telegram-bot[job-queue]==21.6
+futbol-libre-hoy==1.0.0
